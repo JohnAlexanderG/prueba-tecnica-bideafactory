@@ -1,0 +1,17 @@
+{
+  "name": "prueba_tecnica_bideafactory",
+  "version": "0.0.1",
+  "description": "prueba técnica bideafactory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JohnAlexanderG <johnalexand3rg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
